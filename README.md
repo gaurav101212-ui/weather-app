@@ -28,6 +28,12 @@ A modern weather application built using React that allows users to search real-
 
 ---
 
+## 📸 Screenshot
+
+![Weather App](./weather.png)
+
+----
+
 ## 📦 Installation
 
 ```bash
